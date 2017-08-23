@@ -1,3 +1,10 @@
+# my camera is 30fps, so i will collect the data in a fast speed.
+#if you want to change the time just to time.sleep(0.2) in while
+#when the camera collect 6200 ,it will exit.
+#amount of one kind of gesture in cifar10 will be 6000
+# i add addtional 200 to screen out the best
+#take care of the size(32*4),yeah you konw the reason!
+
 import cv2 
 import time
 
