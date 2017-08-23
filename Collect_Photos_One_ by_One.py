@@ -1,3 +1,7 @@
+
+# WHEN you tap the 'c' key in keyboard it will imwrite one photo
+#it will take longer time for your 6000 data
+#
 import cv2
 import time 
 
